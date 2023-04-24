@@ -1,0 +1,37 @@
+*{
+  background-image: url('https://i.pinimg.com/originals/95/8b/39/958b3928314daf1b7caafc3244ee8052.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  background-size: cover;
+}
+
+
+
+
+ul{
+	width: 320px;
+	height: 40px;
+	margin: 60px;
+	display: inline-flex;
+    text-align: center;
+	background: #FFF;
+	padding: 40px;
+	
+}
+
+
+ul{
+ box-shadow: 0 10px 6px -6px #77777786;
+ background-color: rgb(202, 200, 200);
+}
+
+input{
+  margin-top: 40px;
+  border-radius: 5px;
+  height: 20px;
+  width: 200px;
+  color: #FFF;
+  
+}
